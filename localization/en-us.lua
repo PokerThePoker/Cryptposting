@@ -280,6 +280,13 @@ return {
 					"{C:inactive}(Currently {}{C:attention}#1#{}{C:inactive}){}",
 				},
 			},
+			j_crp_bulgoehikingjourney = {
+				name = "Bulgoe's Hiking Journey",
+				text = {
+					"Every card played permanently",
+					"gains {X:chips,C:white}X#1#{} Chips when scored",
+				},
+			},
 		},
 		Spectral =  {
 			c_crp_prayer = {
